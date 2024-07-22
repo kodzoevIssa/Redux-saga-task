@@ -4,4 +4,8 @@
 
 ## Как запустить?
 
+### `git clone https://github.com/Jakisley/redux-saga-for-students.git`
+
+### `npm i`
+
 ### `npm start`
