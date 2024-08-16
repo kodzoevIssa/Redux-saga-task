@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Redux-saga-task/static/css/main.2306597a.css",
+    "main.js": "/Redux-saga-task/static/js/main.0b8f17c9.js",
+    "static/js/453.6f066bdd.chunk.js": "/Redux-saga-task/static/js/453.6f066bdd.chunk.js",
+    "index.html": "/Redux-saga-task/index.html",
+    "main.2306597a.css.map": "/Redux-saga-task/static/css/main.2306597a.css.map",
+    "main.0b8f17c9.js.map": "/Redux-saga-task/static/js/main.0b8f17c9.js.map",
+    "453.6f066bdd.chunk.js.map": "/Redux-saga-task/static/js/453.6f066bdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2306597a.css",
+    "static/js/main.0b8f17c9.js"
+  ]
+}
